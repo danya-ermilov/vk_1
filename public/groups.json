@@ -1,0 +1,40 @@
+{
+  "result": 1,
+  "data": [
+    {
+      "id": 1,
+      "name": "Group 1",
+      "closed": false,
+      "members_count": 100,
+      "friends": [
+        {
+          "first_name": "John",
+          "last_name": "Doe"
+        },
+        {
+          "first_name": "Jane",
+          "last_name": "Doe"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Group 2",
+      "closed": true,
+      "members_count": 50,
+      "avatar_color": "red"
+    },
+    {
+      "id": 3,
+      "name": "Group 3",
+      "closed": true,
+      "members_count": 10,
+      "friends": [
+        {
+          "first_name": "Ivan",
+          "last_name": "Lebedev"
+        }
+      ]
+    }
+  ]
+}
